@@ -55,9 +55,9 @@ git clone [git@github.com:Newton-Oduor/phase-1-project.git](git@github.com:Newto
 
 2., Open the project folder in VS Code or any code editor.
 
-3., Run json-server --watch db.json to start the local server
+3., Install (npm install -g json-server) & Run json-server --watch db.json or json-server --watch db.json --port 3000 to start the local server
 
-4., Open index.html in a browser or use a Live Server extension.
+4., Open index.html in a browser or use a Live Server extension in your code editor.
 
 5., Ensure internet connection for Tailwind CDN to load properly
 
